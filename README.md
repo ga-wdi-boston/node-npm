@@ -53,6 +53,12 @@ Here are a few things you might try:
 -   Find a package to colorize terminal output and make your output pretty.
 -   Decorate your output with emojis!
 
+## Useful NPM Packages
+
+-   [lodash](https://lodash.com/)
+-   [Moment.js | Home](http://momentjs.com/)
+-   [math.js | an extensive math library for JavaScript and Node.js](http://mathjs.org/)
+
 ## Additional Resources
 
 -   [npm](https://www.npmjs.com/)
