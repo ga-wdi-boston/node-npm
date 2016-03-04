@@ -59,6 +59,9 @@ Here are a few things you might try:
 -   [Moment.js | Home](http://momentjs.com/)
 -   [math.js | an extensive math library for JavaScript and Node.js](http://mathjs.org/)
 
+Careful when using packages in your font-end projects. Some of them are very
+large!
+
 ## Additional Resources
 
 -   [npm](https://www.npmjs.com/)
