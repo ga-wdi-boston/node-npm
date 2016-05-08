@@ -4,6 +4,7 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
+    "findit": "^2.0.0",
     "jquery": "^2.1.4"
   },
   "devDependencies": {
