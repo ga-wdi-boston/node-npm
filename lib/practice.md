@@ -12,19 +12,11 @@ Package 1:
 1.  How can I use this package in my own code? What steps are involved?
 1.  How well-maintained is this package? What criteria did I use to decide?
 
-Enum
-npm install enum -s
-Enum store values (numbers only) that you can use them later on. We can't
-modify them.
+Chalk
+npm install --save chalk
 
-enum someVal {
-   a= 3;
-   b=4;
-};
+It is a popular styling module
 
-console.log(someVal.a) // returns a
-
-someVal.a = 5; // error
 
 
 Package 2:
