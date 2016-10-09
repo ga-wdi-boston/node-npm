@@ -4,7 +4,10 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "enum": "^2.3.0",
+    "jquery": "^2.1.4",
+    "knuth-shuffle": "^1.0.1",
+    "lodash": "^4.16.4"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
