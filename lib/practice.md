@@ -1,6 +1,7 @@
 ## Practice: Install a Package for Enumeration
 
 - What package did you install for enumeration?
+  lodash
 
 ## Research: Popular NPM Packages
 
