@@ -12,7 +12,7 @@ Package 1: Express
 
 Express is a lightweight framework for building a web application in Node.js.
 It allows developers to get a Node back end up and running very quickly by
-writing a lot of the HTTP boilerplate and
+writing a lot of the HTTP boilerplate.
 
 2.  How can I use this package in my own code? What steps are involved?
 
