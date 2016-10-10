@@ -4,6 +4,7 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
+    "enum": "^2.3.0",
     "jquery": "^2.1.4"
   },
   "devDependencies": {
