@@ -4,7 +4,10 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "array-shuffle": "^1.0.1",
+    "jquery": "^2.1.4",
+    "lodash": "^4.17.2",
+    "node-emoji": "^1.4.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
