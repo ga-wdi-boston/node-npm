@@ -4,9 +4,11 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
+    "chalk": "^1.1.3",
     "enum": "^2.3.0",
     "jquery": "^2.1.4",
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.2",
+    "node-emoji": "^1.4.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
