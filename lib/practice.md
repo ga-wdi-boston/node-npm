@@ -41,6 +41,10 @@ I honestly do not know what problem this solves. Probably JavaScript devs not ha
 ```md
 I guess I would use it to help with functional programming problems that I don't know I have yet?
 
+update: I talked to a friend of mine who is doing a PhD in computer science and she said that underscore turns JavaScript into a much more useable functional language.
+
+This actually leads me to a question: Is it fair to say that naked JavaScript is stuck halfway between being a functional language and an object oriented one?
+
 `npm install --save underscore`
 
 require the file where you need it.
