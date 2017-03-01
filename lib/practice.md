@@ -3,58 +3,60 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
+lodash
 ```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+npm install express
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Express provides a thin layer of fundamental web application features, without obscuring Node.js features.
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+npm install express --save
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
-```
+pretty offten.
+they had 5308 commits  and 2411 issues has been closed```
 
 Package 2:
 ```md
-<!-- your answer here -->
+browserify
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Use a node-style require() to organize your browser code and load modules installed by npm
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+npm install -g browserify
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
-```
+pretty offten.
+2116 commits and 862 closed issues```
 
 Package 3:
 ```md
-<!-- your answer here -->
+pm2
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+to install u need :
+$ npm install pm2 -g
+to start an application :
+$ pm2 start app.js
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
-```
+3467 commits and 2014 losed issue. id say pretty offten```
