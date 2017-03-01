@@ -3,58 +3,71 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
+npm install lazy
 ```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+Grunt
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+it automates tasks that have to be repeated
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+creqting a JSON package and a Gruntfle
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+latest version was april 2016 and about 2 mill downloads this month
 ```
 
 Package 2:
 ```md
-<!-- your answer here -->
+express
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+<Robust routing
+Focus on high performance
+Super-high test coverage
+HTTP helpers (redirection, caching, etc)
+View system supporting 14+ template engines
+Content negotiation
+Executable for generating applications quickly
+
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+Install the executable
+Create the app
+Install dependencies:
+Start the server:
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+4.14.1 is the latest of 246 releases
+10,144,853 downloads in the last month
 ```
 
 Package 3:
 ```md
-<!-- your answer here -->
+browserify
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+install -g browserify
+Usage: browserify [entry files] {OPTIONS}
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
+14.1.0 is the latest of 464 releases
+85,911 downloads in the last day
 ```
