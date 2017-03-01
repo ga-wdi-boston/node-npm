@@ -3,58 +3,57 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
-```
+zo```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+Grunt
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Does most of the mundane work for you.
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+npm i -S grunt
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+Decent. There are a bunch of issues on github for it and it is only maintained by 4 people. It has less forks and subscribers
 ```
 
 Package 2:
 ```md
-<!-- your answer here -->
+Gulp
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Automates painful / time-consuming tasks in development workflows.
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+npm i -S gulp
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+It is good based on the fact that it has a lot of forks, subscribers, stargazers, not many open issues, and few dependencies.
 ```
 
 Package 3:
 ```md
-<!-- your answer here -->
+npm
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+npm i -S npm
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
+Well maintained! It has the most amount of downloads by far and a new version comes out every 5 days-ish!
 ```
