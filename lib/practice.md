@@ -3,58 +3,61 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
+<!-- enum -->
 ```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+<!-- async -->
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+<!-- It is a powerful module to work with non-blocking operations. It can be used in node and the browser -->
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+<!-- It can be used to filter info as well as to bind objects.
+     npm install async
+     to use it async.map or async.(function I want to work on(from the list of available functions included in the module))-->
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+<!-- I looked at the package repo (https://github.com/caolan/async) and noticed that there is a minimum number of issues open which means there is a constant monitoring and evluation process in the maintenance of the package and awareness/resolution of issues raised.  -->
 ```
 
 Package 2:
 ```md
-<!-- your answer here -->
+<!-- Mocha -->
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+<!--  A framework that can be run in node and the browser to easily make non-blocking operation tests.  -->
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+<!-- To test, run higher efficiency, clean code.-->
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+<!-- Well documented, repo up to date with constant clear and useful commits.  -->
 ```
 
 Package 3:
 ```md
-<!-- your answer here -->
+<!-- jshint -->
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+<!-- Debugging syntax, and other type of bugs.  -->
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+<!-- In my group project it will help to debug, it can be installed globally and in my text editor atom with
+apm install jshint -->
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
+<!-- Thorough documentation, updated tools to use. -->
 ```
