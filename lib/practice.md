@@ -3,58 +3,59 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
+https://www.npmjs.com/package/enumeration
 ```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+https://www.npmjs.com/package/express
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+it help set up and write a server
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+install it, create the app, install dependencies, and start the server.
+
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+Very well, it is marked as 100% covered for tests, there have been 246 releases wtih 4.14.1 being the most recent one, it is active because there are open pull requests and issues, and it has a number of documentation/links available.
 ```
 
 Package 2:
 ```md
-<!-- your answer here -->
+https://www.npmjs.com/package/bluebird
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+before JS allowed promises, bluebird was an alternative and is still used
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+install it, var Promise = require("bluebird");
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+They have 213 releases with 3.4.7 being the latest one and has open pull requests and issues.
 ```
 
 Package 3:
 ```md
-<!-- your answer here -->
+https://www.npmjs.com/package/passport
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Passport is authentication middleware for Node designed to authenticate requests.
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+install
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
+It has open pull requests and issues.
 ```
