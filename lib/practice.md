@@ -3,58 +3,59 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
+enum
+npm install --save enum
 ```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+moment
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Working with dates
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+I can use when parsing and validating dates
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+Very well maintained - 3,242 commits and 60 releases on gitHub.
 ```
 
 Package 2:
 ```md
-<!-- your answer here -->
+grunt
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+It allows a developer to do less repetative tasks with testing (and other tasks).  It also offers a number of plugins
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+Creating tests for my code
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+Very well maintained.  Based on the extensive usable throughout the web development community.
 ```
 
 Package 3:
 ```md
-<!-- your answer here -->
+browserify
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Problems keeping code organized and using third party apis.
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+I will use this package when exporting functions.
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
+Very well maintained.  Based on github commits (2,116) and contributors(162).
 ```
