@@ -3,58 +3,61 @@
 - What package did you install for enumeration?
 
 ```md
-<!-- your answer here -->
+lodash
 ```
 
 ## Research: Popular NPM Packages
 
 Package 1:
 ```md
-<!-- your answer here -->
+express
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+routing
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+you can use it with routing methods instead of ajax, I think...
+you need to install it and require it in your directory, and then you give it crud commands to execute.
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+I feel like it's pretty well-maintained. Their most recent issue was opened last night (which they've already responded to asking for clarification), and their most recent commit that was pushed was a week ago, and they have seemingly consistent commits.
 ```
 
 Package 2:
 ```md
-<!-- your answer here -->
+async
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+Makes it easier to work with asynchronous JavaScript
 ```
 1.  How can I use this package in my own code? What steps are involved?
 ```md
-<!-- your answer here -->
+you can use it with callbacks and other things that require asynchronization
+you need to install it and require it in your directory, then use it with iteration methods
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?
 ```md
-<!-- your answer here -->
+I don't really have a basis for judging this stuff, I realize. I mean, these guys seem okay, but their commits are more spread out than express's, and they have open issues that haven't been commented on in two weeks.
 ```
 
 Package 3:
 ```md
-<!-- your answer here -->
+request
 ```
 1.  What problem does this package solve?
 ```md
-<!-- your answer here -->
+making http calls
 ```
 1.  How can I use this package in my own code? What steps are involved?2.
 ```md
-<!-- your answer here -->
+You can use it to stream http requests, make forms, authenticate, etc.
+install it and require it in your directory, then make requests to the server.
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-<!-- your answer here -->
+More than async, less than express
 ```
