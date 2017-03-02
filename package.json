@@ -9,7 +9,11 @@
     "software": "GNU GPLv3",
     "content": "CC­BY­NC­SA 4.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "enumeration": "^0.1.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
