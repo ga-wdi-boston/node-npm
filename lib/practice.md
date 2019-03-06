@@ -74,5 +74,5 @@ series
 ```
 1.  How well-maintained is this package? What criteria did I use to decide?2.
 ```md
-This is decently maintained. Not the best, not the worst. This was determined by npms.io and rated it 50%
+This is decently maintained. Not the best, not the worst. This was determined by npms.io and rated it 50% .
 ```
